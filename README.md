@@ -9,17 +9,27 @@
 - B.Tech in Information Technology — IIIT Lucknow
 ---
 
-## 🛠️ Tech Stack
-### Languages
-#![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
-#![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
-#![C++](https://img.shields.io/badge/-C++-black?style=flat&logo=cplusplus)
+## 🚀 Tech Stack & Tools
 
-### Tools & Frameworks
-#![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
-#![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js)
-#![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
+### 💻 Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts&theme=dark" />
+</p>
 
+### ⚙️ Frameworks & Libraries
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express&theme=dark" />
+</p>
+
+### 🗄️ Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
+</p>
+
+### 🛠️ Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
+</p>
 ---
 
 ## 📊 GitHub Stats
