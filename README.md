@@ -40,7 +40,14 @@
 ---
 
 ## 🌐 Connect with Me
-#[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/iamparthbadgire/)
-#[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=web)](YOUR_WEBSITE)
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/iamparthbadgire/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/iamparthbadgire/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
 
 ---
