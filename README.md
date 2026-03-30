@@ -2,21 +2,23 @@
 
 ## 🌟 About Me
 
-- 📫 How to reach me: [Email / LinkedIn]
-- ⚡ Fun fact: [Something interesting]
+- 📫 How to reach me: parthworks31@gmail.com
+---
 
+## 🎓 Education
+- B.Tech in Information Technology — IIIT Lucknow
 ---
 
 ## 🛠️ Tech Stack
 ### Languages
-![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
-![C++](https://img.shields.io/badge/-C++-black?style=flat&logo=cplusplus)
+#![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
+#![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
+#![C++](https://img.shields.io/badge/-C++-black?style=flat&logo=cplusplus)
 
 ### Tools & Frameworks
-![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js)
-![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
+#![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
+#![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js)
+#![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
 
 ---
 
@@ -33,22 +35,13 @@
 ---
 
 ## 📌 Pinned Projects
-- 🔗 [Project Name](https://github.com/YOUR_USERNAME/PROJECT_NAME) — Short description
-- 🔗 [Project Name](https://github.com/YOUR_USERNAME/PROJECT_NAME) — Short description
+- 🔗 [CertChain](https://github.com/parthbadgire-code/certchain) — 
+- 🔗 [CivicBridge](https://github.com/parthbadgire-code/civicbridge) — 
 
 ---
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](YOUR_LINKEDIN_URL)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter)](YOUR_TWITTER_URL)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=web)](YOUR_WEBSITE)
+#[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/iamparthbadgire/)
+#[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=web)](YOUR_WEBSITE)
 
 ---
-
-## 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
-
----
-
-## 💡 Quote of the Day
-> "Code. Learn. Build. Repeat."
