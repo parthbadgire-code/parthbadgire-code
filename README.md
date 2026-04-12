@@ -1,12 +1,9 @@
 ## Hi there 👋, I'm Parth
 
-## 🌟 About Me
-
-- 📫 How to reach me: parthworks31@gmail.com
+📫 reach me at: parthworks31@gmail.com
 ---
 
-## 🎓 Education
-- B.Tech in Information Technology — IIIT Lucknow
+## 🎓 Education : B.Tech in Information Technology — IIIT Lucknow
 ---
 
 ## 🚀 Tech Stack & Tools
