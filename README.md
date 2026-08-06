@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Parth
 
 📫 reach me at: parthworks31@gmail.com
----
+
 
 ## 🎓 Education : B.Tech in Information Technology — IIIT Lucknow
 ---
