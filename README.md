@@ -1,50 +1,49 @@
-## Hi there 👋, I'm Parth
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=240&section=header&text=Parth%20Badgire&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Turning%20information%20into%20action&descSize=18&descAlignY=57&descColor=e9d5ff" width="100%"/>
 
-📫 reach me at: parthworks31@gmail.com
+<div align="center">
+
+<b>
+Full Stack Developer • Blockchain  • Open Source
+</b>
 
 
-## 🎓 Education : B.Tech in Information Technology — IIIT Lucknow
----
-
-## 🚀 Tech Stack & Tools
-
-### 💻 Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts&theme=dark" />
-</p>
-
-### ⚙️ Frameworks & Libraries
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express&theme=dark" />
-</p>
-
-### 🗄️ Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
-</p>
-
-### 🛠️ Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
-</p>
+</div>
 
 ---
 
-## 📌 Pinned Projects
-- 🔗 [CertChain](https://github.com/parthbadgire-code/certchain) — 
-- 🔗 [CivicBridge](https://github.com/parthbadgire-code/civicbridge) — 
+# Hey, I'm Parth 👋
+
+🌐 [LinkedIn](https://www.linkedin.com/in/iamparthbadgire/) • [Resume](https://www.kaggle.com/) • [Portfolio](https://portfolio-two-pied-69.vercel.app/)
+
+I'm a information technology student interested in Web Application Development, DevOps Engineering, Blockchain and Open Source Software.
+
+🧠 Building educational technology, intelligent systems, and developer tools.
+
+⚙️ Exploring retrieval architectures, blockchain, and the challenges behind building reliable web application systems.
+
+🚀 Turning ideas into products that people genuinely find useful.
+
 
 ---
 
-## 🌐 Connect with Me
+## ⚙️ Tools & Technologies
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/iamparthbadgire/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/iamparthbadgire/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,fastapi,mongodb,postgres,firebase,nextjs,flutter,docker,git,linux&perline=13" />
+
+</div>
+
+<div align="center">
+
+
+</div>
+
+---
+
+
+## 🚀 Featured Work
+
+The repositories pinned below showcase the projects I'm most proud of.
 
 ---
