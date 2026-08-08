@@ -12,7 +12,7 @@
   </a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&width=650&lines=Full+Stack+Developer+%7C+Web3+Builder;Solana+%7C+Smart+Contracts+%7C+Open+Source;Building+things+that+actually+work+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&width=650&lines=Full+Stack+Developer+%7C+Web3+Builder;Solana+%7C+Devops+%7C+Open+Source;Building+things+that+actually+work+%F0%9F%9A%80" />
 
 I'm a Information Technology student at **IIIT Lucknow** interested in **Full-Stack Development, Web3, Open Source, and Developer Tools**.
 
@@ -68,19 +68,21 @@ I'm a Information Technology student at **IIIT Lucknow** interested in **Full-St
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=parthbadgire-code&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthbadgire-code&layout=compact&theme=github_dark&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=parthbadgire-code&theme=github_dark" width="95%" />
 </p>
-
----
-
-## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/parthbadgire-code/parthbadgire-code/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=parthbadgire-code&theme=github_dark" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=parthbadgire-code&theme=github_dark" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=parthbadgire-code&theme=github_dark" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=parthbadgire-code&theme=github_dark&utcOffset=5.5" width="45%" />
 </p>
 
 ---
+
 ## 🚀 Featured Work
 
 
