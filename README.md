@@ -13,10 +13,10 @@ Full Stack Developer • Blockchain  • Open Source
 
 # Hey, I'm Parth 👋
 
-🌐 [LinkedIn](https://www.linkedin.com/in/iamparthbadgire/) • [Resume](https://www.kaggle.com/) • [Portfolio](https://portfolio-two-pied-69.vercel.app/)
+🌐 [LinkedIn](https://www.linkedin.com/in/iamparthbadgire/) • [Resume](https://drive.google.com/file/d/1JsF33W1A1Wnbc_lVRrawnZ6mVuoerJsR/view?usp=sharing) • [Portfolio]()
 
-I'm a information technology student interested in Web Application Development, DevOps Engineering, Blockchain and Open Source Software.
-
+I'm a Information Technology student at Indian Institute of Information Technology Lucknow interested in Web Application Development, DevOps Engineering, Blockchain and Open Source Contribution.
+ 
 🧠 Building educational technology, intelligent systems, and developer tools.
 
 ⚙️ Exploring retrieval architectures, blockchain, and the challenges behind building reliable web application systems.
