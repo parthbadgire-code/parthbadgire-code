@@ -1,17 +1,20 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=240&section=header&text=Parth%20Badgire&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Decentralizing%20ideas%20into%20reality.&descSize=18&descAlignY=57&descColor=e9d5ff" width="100%"/>
+
+
 # Hey, I'm Parth 👋
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_USERNAME">
+  <a href="https://linkedin.com/in/iamparthbadgire">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/parthbadgire-code">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&width=650&lines=Full+Stack+Developer+%7C+Web3+Builder;Solana+%7C+Smart+Contracts+%7C+Open+Source;Building+things+that+actually+work+%F0%9F%9A%80" />
 
-I'm a Computer Science student at **IIIT Lucknow** interested in **Full-Stack Development, Web3, Open Source, and Developer Tools**.
+I'm a Information Technology student at **IIIT Lucknow** interested in **Full-Stack Development, Web3, Open Source, and Developer Tools**.
 
 🛠️ Building full-stack applications, decentralized systems, and products that solve real-world problems.
 
@@ -62,63 +65,11 @@ I'm a Computer Science student at **IIIT Lucknow** interested in **Full-Stack De
 
 ---
 
-## 🚀 Featured Work
-
-### ⛓️ FlowPay
-
-> A Web3 payment layer that lets users pay in INR while automatically routing value across tokens, networks, and NFT-backed assets.
-
-**Tech:** `Next.js` `Supabase` `Solidity` `Hardhat` `Ethereum`
-
----
-
-### 🌐 IIITL Connect
-
-> An all-in-one platform for the IIIT Lucknow ecosystem combining academics, resources, communities, and social features.
-
-**Tech:** `Next.js` `React` `Node.js` `PostgreSQL` `Supabase`
-
----
-
-### 🏛️ CivicBridge
-
-> An open platform for discovering public welfare schemes and reporting civic issues.
-
-**Tech:** `React` `JavaScript` `REST APIs`
-
----
-
-### 🔐 Whisper
-
-> A decentralized anonymous confession platform built on Solana, exploring on-chain account management and smart-contract design.
-
-**Tech:** `Solana` `Anchor` `Rust`
-
----
-
-## 🏆 Achievements
-
-- 🥈 **2nd Rank — FOSS Weekend**
-- ⚡ Hackathon Builder
-- 🌱 Open Source Contributor
-- ⛓️ Web3 Developer
-- 👨‍💻 Building & shipping projects at IIIT Lucknow
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true" />
 </p>
 
 ---
@@ -130,19 +81,6 @@ I'm a Computer Science student at **IIIT Lucknow** interested in **Full-Stack De
 </p>
 
 ---
+## 🚀 Featured Work
 
-## 📈 Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true" />
-</p>
-
----
-
-## 💭 Currently
-
-```text
-Building       → Full Stack + Web3 Projects
-Learning       → System Design + CP + Solana
-Contributing   → Open Source
-Exploring      → DeFi + Developer Tools
