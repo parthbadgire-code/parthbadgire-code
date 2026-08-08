@@ -12,7 +12,7 @@
   </a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&width=650&lines=Full+Stack+Developer+%7C+Web3+Builder;Solana+%7C+Devops+%7C+Open+Source;Building+things+that+actually+work+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&width=650&lines=Full+Stack+Developer+%7C+Web3+Builder;Solana+%7C+Open+Source;Building+things+that+actually+work+%F0%9F%9A%80" />
 
 I'm a Information Technology student at **IIIT Lucknow** interested in **Full-Stack Development, Web3, Open Source, and Developer Tools**.
 
