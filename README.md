@@ -68,8 +68,8 @@ I'm a Information Technology student at **IIIT Lucknow** interested in **Full-St
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=parthbadgire-code&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthbadgire-code&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ---
@@ -77,7 +77,7 @@ I'm a Information Technology student at **IIIT Lucknow** interested in **Full-St
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/parthbadgire-code/parthbadgire-code/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
